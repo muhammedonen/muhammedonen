@@ -8,11 +8,7 @@ Here are some ideas to get you started:
 - I'm thinking of learning next.js
 <br/>
 <br/>
-** Tools and Languages: **
-<br/>
-**My Bold Text**
-<br/>
-# The largest heading
+
 
 
 
