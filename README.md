@@ -1,51 +1,6 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">I'm still learning..</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedonen&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedonen" /> </p>
-
-- 🔭 I’m currently working on **Javascript**
-
-- 🌱 I’m currently learning **Tailwindcss and next.js**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedonen&show_icons=true&locale=en" alt="muhammedonen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedonen&" alt="muhammedonen" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
