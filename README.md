@@ -24,7 +24,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedonen&layout=compact)](https://github.com/muhammedonen/github-readme-stats)
+
 
 
 
