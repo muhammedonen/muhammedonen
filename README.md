@@ -13,6 +13,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+## 🚀 Projeler
+- [STOCKLANDJs](https://stocklandjs.vercel.app/) - Borsa, döviz ve Kripto para piyasalarını anlık takip etme platformu(eksikleri giderilecek :))
+
 ## 📊 GitHub İstatistiklerim
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedonen&show_icons=true&theme=radical)
 
